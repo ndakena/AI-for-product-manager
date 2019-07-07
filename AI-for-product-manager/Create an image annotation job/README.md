@@ -1,3 +1,5 @@
+# CLone this repo first
+Please you will need to clone this repo and unzip in order to view the instruction file.
 ## Overview
 This job helps doctors quickly identify cases of pneumonia in children
 
